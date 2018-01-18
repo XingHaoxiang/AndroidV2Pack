@@ -1,0 +1,9 @@
+{
+	"apksignerPath": "D:\\android-sdk\\build-tools\\26.0.2\\lib\\apksigner.jar",
+	"keyStorePath": "D:\\test.keystore",
+	"keystoreAlias": "test.keystore",
+	"KeyStorePwd": "test",
+	"aliasPwd":"test",
+	"outPath":"D:\\app-release2.apk",
+	"inputPath":"D:\release_update.apk"
+}
